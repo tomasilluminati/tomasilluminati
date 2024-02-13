@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%C3%A1s%20Illuminati-blue)](https://www.linkedin.com/in/tomasilluminati)
 [![Twitter](https://img.shields.io/twitter/follow/tomas_illuminati?style=social)](https://twitter.com/IlluminatiTomas)
 
-Welcome to my GitHub profile! I'm Tomás Illuminati, a student passionate about cybersecurity and international relations. I delve into the realm of technology from the perspective of cybersecurity and its relationship with international politics.
+Welcome to my GitHub profile! I'm Tomás Illuminati, a student passionate about cybersecurity and international relations. I explore the intersection of technology and cybersecurity, particularly its relationship with international politics.
 
 ## About Me
 - 🔭 I’m currently learning about cybersecurity and its intersection with international relations.
