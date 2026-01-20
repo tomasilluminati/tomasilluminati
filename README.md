@@ -59,13 +59,17 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 </tr>
 
 <tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">Vulnerability</td>
-<td style="padding: 16px 24px; color: #fff;">Race Condition in Path Reservations</td>
+  <td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">
+    Vulnerability
+  </td>
+  <td style="padding: 16px 24px; color: #fff;">
+    Race Condition in node-tar
+  </td>
 </tr>
 
 <tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">Type</td>
-<td style="padding: 16px 24px; color: #fff; font-family: monospace;">Race Condition (CWE-176)</td>
+<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">Weakness</td>
+<td style="padding: 16px 24px; color: #fff; font-family: monospace;">CWE-176 - CWE-362 - CWE-367</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #37474f;">
