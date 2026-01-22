@@ -119,7 +119,7 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 [![OWASP](https://img.shields.io/badge/OWASP%20Rosario-Chapter%20Leader-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
 [![OSINT.UK](https://img.shields.io/badge/OSINT.UK-Member-4B0082?style=for-the-badge&logoColor=white)](https://www.osint.uk/)
 [![Internet Society](https://img.shields.io/badge/Internet%20Society%20UK-Member-0066CC?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
-[![FTLP UNDP](https://img.shields.io/badge/FTLP%20UNDP%20UN-Cybersecurity-0066CC?style=for-the-badge&logo=unitednations&logoColor=white)](https://www.undp.org/)
+[![FTLP UNDP](https://img.shields.io/badge/FTLP%20UNDP%20UN-Cybersecurity%20Trainer-0066CC?style=for-the-badge&logo=unitednations&logoColor=white)](https://www.undp.org/)
 </div>
 
 
