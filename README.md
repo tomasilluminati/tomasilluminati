@@ -58,9 +58,11 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 | **Affected Package** | node-tar ≤ v7.5.3 |
 | **Status** | ✅ PATCHED & DISCLOSED |
 | **Published** | January 19, 2026 |
-| **References** | [![NVD](https://img.shields.io/badge/NVD-Details-d32f2f?style=flat-square)](https://nvd.nist.gov/vuln/detail/CVE-2026-23950) [![MITRE](https://img.shields.io/badge/MITRE-Record-1976d2?style=flat-square)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-23950) [![GitHub](https://img.shields.io/badge/GitHub-Advisory-000000?style=flat-square)](https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w) |
+| **References** | [![NVD](https://img.shields.io/badge/NVD-Details-d32f2f?style=flat-square)](https://nvd.nist.gov/vuln/detail/CVE-2026-23950) [![MITRE](https://img.shields.io/badge/MITRE-Record-1976d2?style=flat-square)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-23950) [![GitHub](https://img.shields.io/badge/GitHub-Advisory-000000?style=flat-square)](https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w) [![GitHub](https://img.shields.io/badge/GitLab-Advisory-FFA500?style=flat-square)](https://advisories.gitlab.com/pkg/npm/tar/CVE-2026-23950/)  |
 
 </div>
+
+
 
 ---
 
