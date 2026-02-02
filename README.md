@@ -50,63 +50,15 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 
 <div align="center">
 
-<table style="border-collapse: collapse; width: 100%; max-width: 700px; margin: 0 auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3); overflow: hidden; border: 2px solid #d32f2f;">
-</tr>
-
-<tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600; width: 40%;">CVE ID</td>
-<td style="padding: 16px 24px; color: #4fc3f7; font-family: monospace; font-weight: 700;">CVE-2026-23950</td>
-</tr>
-
-<tr style="border-bottom: 1px solid #37474f;">
-  <td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">
-    Vulnerability
-  </td>
-  <td style="padding: 16px 24px; color: #fff;">
-    Race Condition in node-tar
-  </td>
-</tr>
-
-<tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">Weakness</td>
-<td style="padding: 16px 24px; color: #fff; font-family: monospace;">CWE-176 - CWE-362 - CWE-367</td>
-</tr>
-
-<tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">Severity</td>
-<td style="padding: 16px 24px;"><span style="background: linear-gradient(90deg, #d32f2f 0%, #f57c00 100%); color: white; padding: 6px 14px; font-weight: bold; display: inline-block; font-size: 14px;">HIGH</span></td>
-</tr>
-
-<tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">Affected Package</td>
-<td style="padding: 16px 24px; color: #81c784; font-family: monospace; font-weight: 600;">node-tar ≤ v7.5.3</td>
-</tr>
-
-<tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">Status</td>
-<td style="padding: 16px 24px;"><span style="background: #1b5e20; color: #81c784; padding: 6px 14px; font-weight: bold; display: inline-block; font-size: 14px;">✅ PATCHED & DISCLOSED</span></td>
-</tr>
-
-<tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #b0bec5; font-weight: 600;">Published</td>
-<td style="padding: 16px 24px; color: #fff; font-family: monospace;">January 19, 2026</td>
-</tr>
-
-<tr>
-<td colspan="2" style="padding: 20px 24px; background: rgba(33, 150, 243, 0.1); border-top: 1px solid #37474f; text-align: center;">
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-23950" style="display: inline-block; margin: 0 8px; padding: 10px 18px; background: #d32f2f; color: white; text-decoration: none; font-weight: bold; font-size: 13px;">
-📋 NVD Details
-</div>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-23950" style="display: inline-block; margin: 0 8px; padding: 20px 20px; background: #1976d2; color: white; text-decoration: none; font-weight: bold; font-size: 13px;">
-📖 MITRE Record
-</a>
-<a href="https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w" style="display: inline-block; margin: 0 8px; padding: 10px 18px; background: #000; color: white; text-decoration: none; font-weight: bold; font-size: 13px;">
-🔒 GitHub Advisory
-</a>
-</td>
-</tr>
-
-</table>
+| CVE ID | **CVE-2026-23950** |
+|--------|-------------------|
+| **Vulnerability** | Race Condition in node-tar |
+| **Weakness** | CWE-176 - CWE-362 - CWE-367 |
+| **Severity** | HIGH |
+| **Affected Package** | node-tar ≤ v7.5.3 |
+| **Status** | ✅ PATCHED & DISCLOSED |
+| **Published** | January 19, 2026 |
+| **References** | [![NVD](https://img.shields.io/badge/NVD-Details-d32f2f?style=flat-square)](https://nvd.nist.gov/vuln/detail/CVE-2026-23950) [![MITRE](https://img.shields.io/badge/MITRE-Record-1976d2?style=flat-square)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-23950) [![GitHub](https://img.shields.io/badge/GitHub-Advisory-000000?style=flat-square)](https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w) |
 
 </div>
 
