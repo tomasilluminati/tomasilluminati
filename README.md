@@ -1,12 +1,23 @@
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      
 ## 👋 About Me
 
 I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researcher** with deep expertise in offensive security, threat hunting, and vulnerability discovery. My research focuses on identifying and analyzing critical security risks across systems, networks, and emerging technologies.
 
 **Core Competencies:**
 - **Offensive Security** — Penetration Testing & Ethical Hacking
-- **Threat Intelligence** — CTI, Threat Hunting & Incident Response
+- **Threat Intelligence** — CTI, Threat Hunting & OSINT
 - **Vulnerability Research** — Research & Exploit Development
 - **Malware Analysis** — Reverse Engineering & Binary Analysis
+
+    </td>
+    <td valign="top" width="35%" align="center">
+      <img src="https://github.com/user-attachments/assets/9848a625-dc80-4089-af9d-31bf2bb9fd07" alt="animation" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,7 +89,6 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 [![FTLP UNDP](https://img.shields.io/badge/FTLP%20UNDP%20UN-Cybersecurity%20Trainer-0066CC?style=for-the-badge&logo=unitednations&logoColor=white)](https://www.undp.org/)
 </div>
 
+![FOOTER](https://github.com/user-attachments/assets/04d7f544-4a4c-429f-b08d-1340f1788a3a)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+-----
