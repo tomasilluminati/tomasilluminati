@@ -2,11 +2,11 @@
   <tr>
     <td valign="top" width="65%">
       
-## 👋 About Me
+## About Me
 
-I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researcher** with deep expertise in offensive security, threat hunting, and vulnerability discovery. My research focuses on identifying and analyzing critical security risks across systems, networks, and emerging technologies.
+I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on experience in offensive security, threat hunting, and vulnerability research. My work focuses on identifying and analyzing threats and research vulnerabilities.
 
-**Core Competencies:**
+#### Core Areas of Work
 - **Offensive Security** — Penetration Testing & Ethical Hacking
 - **Threat Intelligence** — CTI, Threat Hunting & OSINT
 - **Vulnerability Research** — Research & Exploit Development
@@ -21,10 +21,10 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 
 ---
 
-## 🎓 Education
+## Education
 <div align="center">
 
-<table style="border-collapse: collapse; width: 100%; max-width: 800px; margin: 20px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3); overflow: hidden; border: 2px solid #4fc3f7;">
+<table style="border-collapse: collapse; width: 100%; max-width: 800px; margin: 20px auto; overflow: hidden; border: 2px solid #4fc3f7;">
 
 <tr style="background: linear-gradient(90deg, #4fc3f7 0%, #2196F3 100%);">
 <td style="padding: 16px 24px; color: white; font-weight: bold; font-size: 14px; text-align: left;">PROGRAM</td>
@@ -47,7 +47,7 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 <tr>
 <td style="padding: 16px 24px; color: #81c784; font-weight: 600;">Bachelor in Political Science</td>
 <td style="padding: 16px 24px; color: #fff;">UAI, Argentina</td>
-<td style="padding: 16px 24px; text-align: center;"><span style="background: #1976d2; color: white; padding: 4px 10px; font-weight: bold; font-size: 12px;">In Progress</span></td>
+<td style="padding: 16px 24px; text-align: center;"><span style="background: #1976d2; color: white; padding: 4px 10px; font-weight: bold; font-size: 12px;">In Progress (parallel program)</span></td>
 </tr>
 
 </table>
@@ -57,7 +57,7 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 
 ---
 
-## 🔍 Discovered CVEs
+## Discovered CVEs
 
 <details>
 <summary><strong>CVE-2026-23950 – RACE CONDITION IN NODE-TAR</strong></summary>
@@ -69,7 +69,7 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 > **CVSS Vector:** `CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:H/A:L`  
 > **Severity:** HIGH (CVSS 8.8)  
 > **Disclosure Date:** 2026-01-19  
-> **Current Status:** PATCHED & DISCLOSED  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
 >
 > **References**
 > - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-23950  
@@ -80,7 +80,7 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 
 ---
 
-## 🌐 Community & Affiliations
+## Community & Affiliations
 
 <div align="center">
 
