@@ -59,21 +59,24 @@ I'm a **Cybersecurity Analyst, Threat Intelligence Specialist & Security Researc
 
 ## 🔍 Discovered CVEs
 
-<div align="center">
+<details>
+<summary><strong>CVE-2026-23950 – RACE CONDITION IN NODE-TAR</strong></summary>
 
-| CVE ID | **CVE-2026-23950** |
-|--------|-------------------|
-| **Vulnerability** | Race Condition in node-tar |
-| **Weakness** | CWE-176 - CWE-362 - CWE-367 |
-| **Severity** | HIGH |
-| **Affected Package** | node-tar ≤ v7.5.3 |
-| **Status** | ✅ PATCHED & DISCLOSED |
-| **Published** | January 19, 2026 |
-| **References** | [![NVD](https://img.shields.io/badge/NVD-Details-d32f2f?style=flat-square)](https://nvd.nist.gov/vuln/detail/CVE-2026-23950) [![MITRE](https://img.shields.io/badge/MITRE-Record-1976d2?style=flat-square)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-23950) [![GitHub](https://img.shields.io/badge/GitHub-Advisory-000000?style=flat-square)](https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w) [![GitHub](https://img.shields.io/badge/GitLab-Advisory-FFA500?style=flat-square)](https://advisories.gitlab.com/pkg/npm/tar/CVE-2026-23950/)  |
+<br>
 
-</div>
+> **Component:** node-tar  
+> **Affected Versions:** ≤ v7.5.3  
+> **CVSS Vector:** `CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:H/A:L`  
+> **Severity:** HIGH (CVSS 8.8)  
+> **Disclosure Date:** 2026-01-19  
+> **Current Status:** PATCHED & DISCLOSED  
+>
+> **References**
+> - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-23950  
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-23950  
+> - GitHub: https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w
 
-
+</details>
 
 ---
 
