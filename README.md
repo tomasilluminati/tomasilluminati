@@ -39,13 +39,13 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 </tr>
 
 <tr style="border-bottom: 1px solid #37474f;">
-<td style="padding: 16px 24px; color: #81c784; font-weight: 600;">Bachelor in International Relations</td>
+<td style="padding: 16px 24px; color: #81c784; font-weight: 600;">B.A. in International Relations</td>
 <td style="padding: 16px 24px; color: #fff;">UAI, Argentina</td>
 <td style="padding: 16px 24px; text-align: center;"><span style="background: #1976d2; color: white; padding: 4px 10px; font-weight: bold; font-size: 12px;">In Progress</span></td>
 </tr>
 
 <tr>
-<td style="padding: 16px 24px; color: #81c784; font-weight: 600;">Bachelor in Political Science</td>
+<td style="padding: 16px 24px; color: #81c784; font-weight: 600;">B.A. in Political Science</td>
 <td style="padding: 16px 24px; color: #fff;">UAI, Argentina</td>
 <td style="padding: 16px 24px; text-align: center;"><span style="background: #1976d2; color: white; padding: 4px 10px; font-weight: bold; font-size: 12px;">In Progress (parallel program)</span></td>
 </tr>
