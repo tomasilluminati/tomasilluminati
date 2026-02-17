@@ -16,11 +16,37 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 ## Education
 
-| Program | Institution | Status |
-|----------|---------------------------|---------------------------|
-| MSc in Cyber Security | The Open University (UK) | ![Status](https://img.shields.io/badge/-IN%20PROGRESS-1976d2?style=flat-square)  |
-| B.A. in International Relations | UAI, Argentina | ![Status](https://img.shields.io/badge/-IN%20PROGRESS-1976d2?style=flat-square) |
-| B.A. in Political Science | UAI, Argentina | ![Status](https://img.shields.io/badge/-IN%20PROGRESS-1976d2?style=flat-square)  |
+<div align="center">
+
+<table style="border-collapse: collapse; width: 100%; max-width: 800px; margin: 20px auto; overflow: hidden; border: 2px solid #4fc3f7;">
+
+<tr style="background: linear-gradient(90deg, #4fc3f7 0%, #2196F3 100%);">
+<td style="padding: 16px 24px; color: white; font-weight: bold; font-size: 14px; text-align: left;">PROGRAM</td>
+<td style="padding: 16px 24px; color: white; font-weight: bold; font-size: 14px; text-align: left;">INSTITUTION</td>
+<td style="padding: 16px 24px; color: white; font-weight: bold; font-size: 14px; text-align: center;">STATUS</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #37474f;">
+<td style="padding: 16px 24px; color: #81c784; font-weight: 600;">MSc in Cyber Security</td>
+<td style="padding: 16px 24px; color: #fff;">The Open University (UK)</td>
+<td style="padding: 16px 24px; text-align: center;"><span style="background: #1976d2; color: white; padding: 4px 10px; font-weight: bold; font-size: 12px;">In Progress</span></td>
+</tr>
+
+<tr style="border-bottom: 1px solid #37474f;">
+<td style="padding: 16px 24px; color: #81c784; font-weight: 600;">B.A. in International Relations</td>
+<td style="padding: 16px 24px; color: #fff;">UAI, Argentina</td>
+<td style="padding: 16px 24px; text-align: center;"><span style="background: #1976d2; color: white; padding: 4px 10px; font-weight: bold; font-size: 12px;">In Progress</span></td>
+</tr>
+
+<tr>
+<td style="padding: 16px 24px; color: #81c784; font-weight: 600;">B.A. in Political Science</td>
+<td style="padding: 16px 24px; color: #fff;">UAI, Argentina</td>
+<td style="padding: 16px 24px; text-align: center;"><span style="background: #1976d2; color: white; padding: 4px 10px; font-weight: bold; font-size: 12px;">In Progress (parallel program)</span></td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
