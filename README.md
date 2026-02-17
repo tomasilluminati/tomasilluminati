@@ -13,8 +13,8 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 - **Malware Analysis** — Reverse Engineering & Binary Analysis
 
     </td>
-    <td valign="top" width="35%" align="center">
-      <img src="https://github.com/user-attachments/assets/9848a625-dc80-4089-af9d-31bf2bb9fd07" alt="animation" width="300"/>
+    <td valign="top" width="35%" align="right">
+      <img src="https://github.com/user-attachments/assets/9848a625-dc80-4089-af9d-31bf2bb9fd07" alt="animation"/>
     </td>
   </tr>
 </table>
