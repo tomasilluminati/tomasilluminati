@@ -110,6 +110,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 [![ISOC](https://img.shields.io/badge/ISOC%20UK-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
 [![ISOC](https://img.shields.io/badge/ISOC%20Argentina-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
 [![ISOC](https://img.shields.io/badge/ISOC%20Switzerland-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
+[![ISOC](https://img.shields.io/badge/ISOC%20US%20Washington-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
 [![FTLP UNDP](https://img.shields.io/badge/FTLP%20UNDP%20UN-Cybersecurity%20Trainer-0066CC?style=for-the-badge&logo=unitednations&logoColor=white)](https://www.undp.org/)
 
 </div>
