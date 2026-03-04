@@ -78,6 +78,25 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 </details>
 
+<details>
+<summary><strong>CVE-2026-29091 – REMOTE CODE EXECUTION (RCE) DUE TO CODE INJECTION IN LOCUTUS</strong></summary>
+
+<br>
+
+> **Component:** locutus  
+> **Affected Versions:** ≤ 2.0.39  
+> **CVSS Vector:** `CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H`  
+> **Severity:** HIGH (CVSS 8.1)  
+> **Disclosure Date:** 2026-03-03  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-29091  
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-29091  
+> - GitHub: https://github.com/advisories/GHSA-fp25-p6mj-qqg6
+
+</details>
+
 ---
 
 ## Community & Affiliations
