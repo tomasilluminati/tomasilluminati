@@ -79,7 +79,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 </details>
 
 <details>
-<summary><strong>CVE-2026-29091 – REMOTE CODE EXECUTION (RCE) DUE TO CODE INJECTION IN LOCUTUS</strong></summary>
+<summary><strong>CVE-2026-29091 – RCE DUE TO CODE INJECTION IN LOCUTUS</strong></summary>
 
 <br>
 
