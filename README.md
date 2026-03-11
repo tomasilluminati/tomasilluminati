@@ -7,10 +7,10 @@
 I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on experience in offensive security, threat hunting, and vulnerability research. My work focuses on identifying and analyzing threats and research vulnerabilities.
 
 #### Core Areas of Work
-- **Offensive Security** — Penetration Testing & Ethical Hacking
-- **Threat Intelligence** — CTI, Threat Hunting & OSINT
-- **Vulnerability Research** — Research & Exploit Development
-- **Malware Analysis** — Reverse Engineering & Binary Analysis
+- **Offensive Security**
+- **Threat Intelligence**
+- **Vulnerability Research**
+- **Malware Analysis & RE**
 
     </td>
     <td valign="top" width="35%" align="right">
