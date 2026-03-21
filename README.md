@@ -60,7 +60,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 ## Discovered CVEs
 
 <details>
-<summary><strong>CVE-2026-23950 – RACE CONDITION IN NODE-TAR</strong></summary>
+<summary><strong>CVE-2026-23950 – Race Condition in node-tar Path Reservations via Unicode Ligature Collisions on macOS APFS</strong></summary>
 
 <br>
 
@@ -74,12 +74,12 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > **References**
 > - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-23950  
 > - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-23950  
-> - GitHub: https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w
+> - GitHub: https://github.com/advisories/GHSA-r6q2-hw4h-h46w
 
 </details>
 
 <details>
-<summary><strong>CVE-2026-29091 – RCE DUE TO CODE INJECTION IN LOCUTUS</strong></summary>
+<summary><strong>CVE-2026-29091 – locutus call_user_func_array vulnerable to Remote Code Execution (RCE) due to Code Injection</strong></summary>
 
 <br>
 
@@ -87,13 +87,51 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > **Affected Versions:** ≤ 2.0.39  
 > **CVSS Vector:** `CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H`  
 > **Severity:** HIGH (CVSS 8.1)  
-> **Disclosure Date:** 2026-03-03  
+> **Disclosure Date:** 2026-03-04  
 > **Current Status:** `PATCHED` & `DISCLOSED`  
 >
 > **References**
 > - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-29091  
 > - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-29091  
 > - GitHub: https://github.com/advisories/GHSA-fp25-p6mj-qqg6
+
+</details>
+
+<details>
+<summary><strong>CVE-2026-33487 – validateSignature Loop Variable Capture Signature Bypass in goxmldsig</strong></summary>
+
+<br>
+
+> **Component:** goxmldsig  
+> **Affected Versions:** ≤ 1.5.9 
+> **CVSS Vector:** `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N`  
+> **Severity:** HIGH (CVSS 7.5)  
+> **Disclosure Date:** 2026-03-18  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-33487  
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-33487  
+> - GitHub: https://github.com/advisories/GHSA-479m-364c-43vc
+
+</details>
+
+<details>
+<summary><strong>CVE-2026-33242 – Path Traversal in salvo-proxy::encode_url_path allows API Gateway Bypass</strong></summary>
+
+<br>
+
+> **Component:** salvo  
+> **Affected Versions:** >= 0.39.0 AND <= 0.89.2  
+> **CVSS Vector:** `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N`  
+> **Severity:** HIGH (CVSS 7.5)  
+> **Disclosure Date:** 2026-03-19  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-33242  
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-33242  
+> - GitHub: https://github.com/advisories/GHSA-f842-phm9-p4v4
 
 </details>
 
