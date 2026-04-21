@@ -113,6 +113,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 [![ISOC](https://img.shields.io/badge/ISOC%20Argentina-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
 [![ISOC](https://img.shields.io/badge/ISOC%20Switzerland-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
 [![ISOC](https://img.shields.io/badge/ISOC%20US%20Washington-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
+[![ASIS](https://img.shields.io/badge/ASIS-Member-red?style=for-the-badge&logoColor=red)](https://www.asisonline.org)
 
 </div>
 
