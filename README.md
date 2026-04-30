@@ -99,6 +99,25 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 </details>
 
+<details>
+<summary><strong>CVE-2026-42304 – Denial of Service (DoS) in twisted.names via Crafted DNS Compression Pointer Chains</strong></summary>
+
+<br>
+
+> **Component:** twisted  
+> **Affected Versions:** <= 25.5.0
+> **CVSS Vector:** `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H`  
+> **Severity:** HIGH (CVSS 7.5)  
+> **Disclosure Date:** 2026-04-18  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-42304
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-42304  
+> - GitHub: https://github.com/twisted/twisted/security/advisories/GHSA-grgv-6hw6-v9g4
+
+</details>
+
 ---
 
 ## Community & Affiliations
