@@ -104,8 +104,8 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 <br>
 
-> **Component:** twisted  
-> **Affected Versions:** <= 25.5.0
+> **Component:** twised  
+> **Affected Versions:** <= 25.5.0  
 > **CVSS Vector:** `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H`  
 > **Severity:** HIGH (CVSS 7.5)  
 > **Disclosure Date:** 2026-04-18  
