@@ -114,7 +114,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > **References**
 > - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-42304
 > - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-42304  
-> - GitHub: https://github.com/twisted/twisted/security/advisories/GHSA-grgv-6hw6-v9g4
+> - GitHub: https://github.com//advisories/GHSA-grgv-6hw6-v9g4
 
 </details>
 
