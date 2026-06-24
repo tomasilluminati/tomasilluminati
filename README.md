@@ -118,6 +118,27 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 </details>
 
+
+<details>
+<summary><strong>CVE-2026-49401 – Deno Permission Bypass via Unicode Normalization Mismatch on macOS (APFS)</strong></summary>
+
+<br>
+
+> **Component:** deno  
+> **Affected Versions:** <= 2.7.13  
+> **CVSS Vector:** `CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N`  
+> **Severity:** HIGH (CVSS 7.3)  
+> **Disclosure Date:** 2026-04-24  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-49401
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-49401  
+> - GitHub: https://github.com/denoland/deno/security/advisories/GHSA-8xpq-cjcf-3wh9
+
+</details>
+
+
 ---
 
 ## Community & Affiliations
