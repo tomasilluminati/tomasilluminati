@@ -128,7 +128,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > **Affected Versions:** <= 2.7.13  
 > **CVSS Vector:** `CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N`  
 > **Severity:** HIGH (CVSS 7.3)  
-> **Disclosure Date:** 2026-04-24  
+> **Disclosure Date:** 2026-04-16  
 > **Current Status:** `PATCHED` & `DISCLOSED`  
 >
 > **References**
