@@ -127,7 +127,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > **Component:** deno  
 > **Affected Versions:** <= 2.7.13  
 > **CVSS Vector:** `CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N`  
-> **Severity:** HIGH (CVSS 7.3)  
+> **Severity:** HIGH (CVSS 8.4) [NIST NVD CVSS]  
 > **Disclosure Date:** 2026-04-16  
 > **Current Status:** `PATCHED` & `DISCLOSED`  
 >
