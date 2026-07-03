@@ -138,6 +138,25 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 </details>
 
+<details>
+<summary><strong>CVE-2026-56448 – Authenticated Path Traversal in AIL Framework Investigation Downloads Allows Arbitrary File Read</strong></summary>
+
+<br>
+
+> **Component:** ail-project  
+> **Affected Versions:** <= 6.8.0   
+> **CVSS Vector:** `CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:H/SI:N/SA:N/S:P`  
+> **Severity:** HIGH (CVSS 8.3) [[CIRCL](https://www.circl.lu)]  
+> **Disclosure Date:** 2026-06-22  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-56448
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-56448  
+> - GNA-1: https://vulnerability.circl.lu/vuln/gcve-1-2026-20088
+
+</details>
+
 
 ---
 
