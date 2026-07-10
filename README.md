@@ -158,6 +158,25 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 </details>
 
 
+<details>
+<summary><strong>CVE-2026-59890 – MANIFEST.in exclusion bypass in sdist via Unicode normalization collision (NFC/NFD) on macOS APFS/HFS+</strong></summary>
+
+<br>
+
+> **Component:** pypa/setuptools  
+> **Affected Versions:** <= 82.0.1   
+> **CVSS Vector:** `CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:N`  
+> **Severity:** MODERATE (CVSS 6.1)  
+> **Disclosure Date:** 2026-06-04  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-59890
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-59890  
+> - GITHUB GHSA: https://github.com/pypa/setuptools/security/advisories/GHSA-h35f-9h28-mq5c
+
+</details>
+
 ---
 
 ## Community & Affiliations
