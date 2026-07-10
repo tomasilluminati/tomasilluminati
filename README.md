@@ -167,7 +167,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > **Affected Versions:** <= 82.0.1   
 > **CVSS Vector:** `CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:N`  
 > **Severity:** MODERATE (CVSS 6.1)  
-> **Disclosure Date:** 2026-06-04  
+> **Disclosure Date:** 2026-07-04  
 > **Current Status:** `PATCHED` & `DISCLOSED`  
 >
 > **References**
