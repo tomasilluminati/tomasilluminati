@@ -159,7 +159,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 
 <details>
-<summary><strong>CVE-2026-59890 – MANIFEST.in exclusion bypass in sdist via Unicode normalization collision (NFC/NFD) on macOS APFS/HFS+</strong></summary>
+<summary><strong>CVE-2026-59890 – MANIFEST.in exclusion bypass in sdist via Unicode normalization collision (NFC/NFD) on macOS</strong></summary>
 
 <br>
 
