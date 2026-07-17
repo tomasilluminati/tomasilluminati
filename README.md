@@ -177,6 +177,25 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 </details>
 
+<details>
+<summary><strong>CVE-2026-39359 – Unauthenticated Path Traversal in Wazuh authd via Agent Group Name</strong></summary>
+
+<br>
+
+> **Component:** wazuh  
+> **Affected Versions:** >= 4.0.0, <= 4.14.4   
+> **CVSS Vector:** `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N`  
+> **Severity:** HIGH (CVSS 7.5)  
+> **Disclosure Date:** 2026-07-16  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-39359
+> - NVD NIST: https://nvd.nist.gov/vuln/detail/CVE-2026-39359
+> - GITHUB GHSA: https://github.com/pypa/setuptools/security/advisories/GHSA-6q95-fcwc-4h44
+
+</details>
+
 ---
 
 ## Community & Affiliations
