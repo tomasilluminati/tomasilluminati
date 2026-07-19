@@ -198,9 +198,17 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 ---
 
-## Community & Affiliations
 
 <div align="center">
+
+<ul>     
+<table>
+    <tr>
+      <td><b>Community & Affiliations</b></td>
+    </tr>
+  </table>
+</ul>
+</br>
 
 [![OWASP](https://img.shields.io/badge/OWASP%20Rosario-Chapter%20Leader-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
 [![OSINT.UK](https://img.shields.io/badge/OSINT.UK-Member-4B0082?style=for-the-badge&logoColor=white)](https://www.osint.uk/)
