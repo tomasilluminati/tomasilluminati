@@ -5,14 +5,44 @@
 ## About Me
 
 I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on experience in offensive security, threat hunting, and vulnerability research.
+<div align="center">
+<hr>      
+<table>
+    <tr>
+      <td><b>Core Areas of Work</b></td>
+    </tr>
+  </table>
+</div>
 
-#### Core Areas of Work
-- **Offensive Security**
-- **Threat Intelligence**
-- **Vulnerability Research**
-- **Malware Analysis & RE**
+<div align="center">
+<hr>    
+<table>
+    <tr>
+      <td><b></b></td>
+      <td><b>Threat Intelligence</b></td>
+      <td><b></b></td>
+    </tr>
+  <tr>
+      <td><b></b></td>
+      <td><b>Vulnerability Research</b></td>
+      <td><b></b></td>
+    </tr>
+  <tr>
+      <td><b></b></td>
+      <td><b>Offensive Cyber Security</b></td>
+      <td><b></b></td>
+    </tr>
+  <tr>
+      <td><b></b></td>
+      <td><b>Malware Analysis & RE</b></td>
+      <td><b></b></td>
+    </tr>
+</table>
+</div>
+</br>
 
-    </td>
+
+</td>
     <td valign="top" width="35%" align="right">
       <img src="https://github.com/user-attachments/assets/9848a625-dc80-4089-af9d-31bf2bb9fd07" alt="animation"/>
     </td>
