@@ -9,39 +9,22 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 <hr>      
 <table>
     <tr>
-      <td><b>Core Areas of Work</b></td>
+      <td><b></b></td>
+      <td><b>My Core Areas of Work</b></td>
+      <td><b></b></td>
     </tr>
   </table>
 </div>
+<hr>
 
-<div align="center">
-<hr>    
-<table>
-    <tr>
-      <td><b></b></td>
-      <td><b>Threat Intelligence</b></td>
-      <td><b></b></td>
-    </tr>
-  <tr>
-      <td><b></b></td>
-      <td><b>Vulnerability Research</b></td>
-      <td><b></b></td>
-    </tr>
-  <tr>
-      <td><b></b></td>
-      <td><b>Offensive Cyber Security</b></td>
-      <td><b></b></td>
-    </tr>
-  <tr>
-      <td><b></b></td>
-      <td><b>Malware Analysis & RE</b></td>
-      <td><b></b></td>
-    </tr>
-</table>
-</div>
+- Threat Intelligence
+- Vulnerability Research
+- Offensive Cyber Security
+- Malware Analysis & RE
+
+<hr>
+
 </br>
-
-
 </td>
     <td valign="top" width="35%" align="right">
       <img src="https://github.com/user-attachments/assets/9848a625-dc80-4089-af9d-31bf2bb9fd07" alt="animation"/>
