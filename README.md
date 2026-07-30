@@ -209,6 +209,25 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 </details>
 
+<details>
+<summary><strong>CVE-2026-13723 – Develar's electron-builder allows arbitrary file overwrite</strong></summary>
+
+<br>
+
+> **Component:** develar/app-builder  
+> **Affected Versions:** <= 4.2.0   
+> **CVSS Vector:** `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:L`  
+> **Severity:** MEDIUM (CVSS 6.5)  
+> **Disclosure Date:** 2026-07-29  
+> **Current Status:** `DISCLOSED`  
+>
+> **References**
+> - CERT/CC: https://kb.cert.org/vuls/id/293714
+> - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-39359
+> - NVD NIST: https://nvd.nist.gov/vuln/detail/CVE-2026-39359
+
+</details>
+
 ---
 
 
