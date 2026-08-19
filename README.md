@@ -228,6 +228,26 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 </details>
 
+</details>
+
+<details>
+<summary><strong>CVE-2026-76164 – AIL Framework contains a server-side request forgery (SSRF) in its crawler</strong></summary>
+
+<br>
+
+> **Affected Versions:** < 7.0   
+> **CVSS Vector:** `CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:L/SI:N/SA:N`  
+> **Severity:** HIGH (CVSS 7.1) [[CIRCL](https://www.circl.lu)]  
+> **Disclosure Date:** 2026-08-19  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-76164
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-76164  
+> - GNA-1: https://vulnerability.circl.lu/vuln/gcve-1-2026-20012
+
+</details>
+
 ---
 
 
