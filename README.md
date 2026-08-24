@@ -260,6 +260,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > **Current Status:** `PATCHED` & `DISCLOSED`  
 >
 > **References**
+> - HASHICORP: https://discuss.hashicorp.com/t/hcsec-2026-31-go-slug-vulnerable-to-exclusion-bypass-in-terraformignore-handling/77668
 > - IBM: https://www.ibm.com/support/pages/node/7284170
 > - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-14978
 > - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-14978  
