@@ -248,6 +248,25 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 </details>
 
+<details>
+<summary><strong>CVE-2026-14978 – go-slug vulnerable to exclusion bypass in .terraformignore handling</strong></summary>
+
+<br>
+
+> **Affected Versions:** < v0.18.3   
+> **CVSS Vector:** `CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N`  
+> **Severity:** MODERATE (CVSS 5.5)  
+> **Disclosure Date:** 2026-08-24  
+> **Current Status:** `PATCHED` & `DISCLOSED`  
+>
+> **References**
+> - IBM: https://www.ibm.com/support/pages/node/7284170
+> - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-14978
+> - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-14978  
+> - NIST: https://nvd.nist.gov/vuln/detail/CVE-2026-14978
+
+</details>
+
 ---
 
 
