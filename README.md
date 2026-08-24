@@ -223,8 +223,8 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 >
 > **References**
 > - CERT/CC: https://kb.cert.org/vuls/id/293714
-> - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-39359
-> - NVD NIST: https://nvd.nist.gov/vuln/detail/CVE-2026-39359
+> - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-13723
+> - NVD NIST: https://nvd.nist.gov/vuln/detail/CVE-2026-13723
 
 </details>
 
