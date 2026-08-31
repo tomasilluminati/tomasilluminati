@@ -287,8 +287,9 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 [![OWASP](https://img.shields.io/badge/OWASP%20Rosario-Chapter%20Leader-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
 [![OSINT.UK](https://img.shields.io/badge/OSINT.UK-Member-4B0082?style=for-the-badge&logoColor=white)](https://www.osint.uk/)
+[![OSMOSIS](https://img.shields.io/badge/OSMOSIS-Member-9dc155?style=for-the-badge&logo=osmosis&logoColor=black)](https://osmosisassociation.org)
 [![IAFIE](https://img.shields.io/badge/IAFIE-Member-F5A742?style=for-the-badge&logoColor=white)](https://iafie.org)
-[![IAFIE](https://img.shields.io/badge/IALEIA-Member-ebc034?style=for-the-badge&logoColor=white)](https://www.ialeia.org)
+[![IALEIA](https://img.shields.io/badge/IALEIA-Member-ebc034?style=for-the-badge&logoColor=white)](https://www.ialeia.org)
 [![ISOC](https://img.shields.io/badge/ISOC%20UK-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
 [![ISOC](https://img.shields.io/badge/ISOC%20Argentina-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
 [![ISOC](https://img.shields.io/badge/ISOC%20Switzerland-Member-1D248A?style=for-the-badge&logoColor=white)](https://www.internetsociety.org/)
