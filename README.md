@@ -156,7 +156,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 <br>
 
-> **Component:** ail-project  
+> **Component:** ail-project/ail-framework   
 > **Affected Versions:** <= 6.8.0   
 > **CVSS Vector:** `CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:H/SI:N/SA:N/S:P`  
 > **Severity:** HIGH (CVSS 8.3) [[CIRCL](https://www.circl.lu)]  
@@ -235,6 +235,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 <br>
 
+> **Component:** ail-project/ail-framework  
 > **Affected Versions:** < 7.0   
 > **CVSS Vector:** `CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:L/SI:N/SA:N`  
 > **Severity:** HIGH (CVSS 7.1) [[CIRCL](https://www.circl.lu)]  
@@ -253,6 +254,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 <br>
 
+> **Component:** hashicorp/go_slug  
 > **Affected Versions:** < v0.18.3   
 > **CVSS Vector:** `CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N`  
 > **Severity:** MODERATE (CVSS 5.5)  
@@ -265,6 +267,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-14978
 > - MITRE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-14978  
 > - NIST: https://nvd.nist.gov/vuln/detail/CVE-2026-14978
+> - GITHUB GHSA: https://github.com/hashicorp/go-slug/security/advisories/GHSA-vvjm-v4gp-jj5c
 
 </details>
 
