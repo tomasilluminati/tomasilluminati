@@ -34,7 +34,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 
 ---
 
-## Discovered CVEs
+## Discovered CVEs (12)
 
 <details>
 <summary><strong>CVE-2026-23950 – Race Condition in node-tar Path Reservations via Unicode Ligature Collisions on macOS APFS</strong></summary>
