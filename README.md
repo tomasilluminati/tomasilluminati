@@ -205,7 +205,7 @@ I'm a **Cybersecurity Analyst and Threat Intelligence Specialist** with hands-on
 > **References**
 > - CVE.ORG: https://www.cve.org/CVERecord?id=CVE-2026-39359
 > - NVD NIST: https://nvd.nist.gov/vuln/detail/CVE-2026-39359
-> - GITHUB GHSA: https://github.com/pypa/setuptools/security/advisories/GHSA-6q95-fcwc-4h44
+> - GITHUB GHSA: https://github.com/wazuh/wazuh/security/advisories/GHSA-6q95-fcwc-4h44
 
 </details>
 
