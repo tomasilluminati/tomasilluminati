@@ -36,7 +36,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-106550/README.md), [Repository](https://github.com/mozilla/node-convict), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-106550)<br><br>
+> [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-106550), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-106550/README.md)<br><br>
 
 </details>
 
