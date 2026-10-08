@@ -19,9 +19,26 @@
 
 ---
 
-## Discovered CVEs (12)
+## Discovered CVEs (13)
 
 Vulnerabilities I discovered and reported. Open an entry for technical details and references.
+
+<details>
+<summary><strong>CVE-2026-106550</strong>: Denial of service in node-convict config.set()</summary>
+
+<br>
+
+> **Component:** mozilla/node-convict  
+> **Affected Versions:** `>= 6.2.2`  
+>
+> **CVE Published:** 2026-10-06 (CERT/CC)  
+> **Status:** `DISCLOSED`  
+>
+> **References**
+>
+> [Advisory (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-106550/README.md), [Repository](https://github.com/mozilla/node-convict), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-106550)<br><br>
+
+</details>
 
 <details>
 <summary><strong>CVE-2026-14978</strong>: .terraformignore exclusion bypass in HashiCorp go-slug</summary>
