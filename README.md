@@ -36,7 +36,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-106550), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-106550/README.md)<br><br>
+> [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-106550), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-13723/README.md)<br><br>
 
 </details>
 
@@ -99,7 +99,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (CERT/CC)](https://kb.cert.org/vuls/id/293714), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-13723), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-13723)<br><br>
+> [Advisory (CERT/CC)](https://kb.cert.org/vuls/id/293714), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-13723), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-13723), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-13723/README.md)<br><br>
 
 </details>
 
