@@ -57,12 +57,12 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (IBM)](https://www.ibm.com/support/pages/node/7284170), [HashiCorp HCSEC-2026-31](https://discuss.hashicorp.com/t/hcsec-2026-31-go-slug-vulnerable-to-exclusion-bypass-in-terraformignore-handling/77668), [Advisory (GitHub)](https://github.com/hashicorp/go-slug/security/advisories/GHSA-vvjm-v4gp-jj5c), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-14978), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-14978)<br><br>
+> [Advisory (IBM)](https://www.ibm.com/support/pages/node/7284170), [HashiCorp HCSEC-2026-31](https://discuss.hashicorp.com/t/hcsec-2026-31-go-slug-vulnerable-to-exclusion-bypass-in-terraformignore-handling/77668), [Advisory (GitHub)](https://github.com/hashicorp/go-slug/security/advisories/GHSA-vvjm-v4gp-jj5c), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-14978), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-14978), [Advisory (CERT/CC)](https://kb.cert.org/vuls/id/604762), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-14978/README.md)<br><br>
 
 </details>
 
 <details>
-<summary><strong>CVE-2026-76164</strong>: Authenticated SSRF in the AIL Framework crawler</summary>
+<summary><strong>CVE-2026-45110</strong>: File overwrite and directory exclusion bypass in libarchive</summary>
 
 <br>
 
@@ -141,7 +141,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/pypa/setuptools/security/advisories/GHSA-h35f-9h28-mq5c), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-59890), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-59890), [Patch](https://github.com/pypa/setuptools/commit/dd9f436a36486b4cb8a4c70a2321548b0be09b8f)<br><br>
+> [Advisory (GitHub)](https://github.com/pypa/setuptools/security/advisories/GHSA-h35f-9h28-mq5c), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-59890), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-59890), [Patch](https://github.com/pypa/setuptools/commit/dd9f436a36486b4cb8a4c70a2321548b0be09b8f), [Advisory (CERT/CC)](https://kb.cert.org/vuls/id/604762), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-59890/README.md)<br><br>
 
 </details>
 
@@ -183,7 +183,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/denoland/deno/security/advisories/GHSA-8xpq-cjcf-3wh9), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-49401), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-49401)<br><br>
+> [Advisory (GitHub)](https://github.com/denoland/deno/security/advisories/GHSA-8xpq-cjcf-3wh9), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-49401), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-49401), [Advisory (CERT/CC)](https://kb.cert.org/vuls/id/604762), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-49401/README.md)<br><br>
 
 </details>
 
@@ -288,7 +288,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-23950), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-23950)<br><br>
+> [Advisory (GitHub)](https://github.com/isaacs/node-tar/security/advisories/GHSA-r6q2-hw4h-h46w), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-23950), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-23950), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-23950/README.md)<br><br>
 
 </details>
 
