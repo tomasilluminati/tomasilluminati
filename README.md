@@ -19,7 +19,7 @@
 
 ---
 
-## Discovered CVEs (13)
+## Discovered CVEs (14)
 
 Vulnerabilities I discovered and reported. Open an entry for technical details and references.
 
@@ -36,7 +36,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-106550), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-13723/README.md)<br><br>
+> [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-106550), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-106550/README.md)<br><br>
 
 </details>
 
@@ -66,6 +66,22 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 
 <br>
 
+> **Component:** libarchive  
+>
+> **Advisory Published:** 2026-11-16 (CERT/CC)  
+> **Status:** `DISCLOSED`  
+>
+> **References**
+>
+> [Advisory (CERT/CC)](https://kb.cert.org/vuls/id/604762), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-45110/README.md)<br><br>
+
+</details>
+
+<details>
+<summary><strong>CVE-2026-76164</strong>: Authenticated SSRF in the AIL Framework crawler</summary>
+
+<br>
+
 > **Component:** ail-project/ail-framework  
 > **Affected Versions:** `< 7.0`  
 > **Fixed in:** `7.0`  
@@ -78,7 +94,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (CIRCL / GCVE)](https://vulnerability.circl.lu/vuln/gcve-1-2026-20012), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-76164)<br><br>
+> [Advisory (CIRCL / GCVE)](https://vulnerability.circl.lu/vuln/gcve-1-2026-20012), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-76164), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-76164/README.md)<br><br>
 
 </details>
 
@@ -120,7 +136,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/wazuh/wazuh/security/advisories/GHSA-6q95-fcwc-4h44), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-39359), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-39359)<br><br>
+> [Advisory (GitHub)](https://github.com/wazuh/wazuh/security/advisories/GHSA-6q95-fcwc-4h44), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-39359), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-39359), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-39359/README.md)<br><br>
 
 </details>
 
@@ -162,7 +178,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (CIRCL / GCVE)](https://vulnerability.circl.lu/vuln/gcve-1-2026-20088), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-56448)<br><br>
+> [Advisory (CIRCL / GCVE)](https://vulnerability.circl.lu/vuln/gcve-1-2026-20088), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-56448), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-56448/README.md)<br><br>
 
 </details>
 
@@ -204,7 +220,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/twisted/twisted/security/advisories/GHSA-grgv-6hw6-v9g4), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-42304), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-42304)<br><br>
+> [Advisory (GitHub)](https://github.com/twisted/twisted/security/advisories/GHSA-grgv-6hw6-v9g4), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-42304), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-42304), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-42304/README.md)<br><br>
 
 </details>
 
@@ -225,7 +241,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/russellhaering/goxmldsig/security/advisories/GHSA-479m-364c-43vc), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-33487), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-33487)<br><br>
+> [Advisory (GitHub)](https://github.com/russellhaering/goxmldsig/security/advisories/GHSA-479m-364c-43vc), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-33487), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-33487), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-33487/README.md)<br><br>
 
 </details>
 
@@ -246,7 +262,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/salvo-rs/salvo/security/advisories/GHSA-f842-phm9-p4v4), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-33242), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-33242)<br><br>
+> [Advisory (GitHub)](https://github.com/salvo-rs/salvo/security/advisories/GHSA-f842-phm9-p4v4), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-33242), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-33242), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-33242/README.md)<br><br>
 
 </details>
 
@@ -267,7 +283,7 @@ Vulnerabilities I discovered and reported. Open an entry for technical details a
 >
 > **References**
 >
-> [Advisory (GitHub)](https://github.com/locutusjs/locutus/security/advisories/GHSA-fp25-p6mj-qqg6), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-29091), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-29091)<br><br>
+> [Advisory (GitHub)](https://github.com/locutusjs/locutus/security/advisories/GHSA-fp25-p6mj-qqg6), [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-29091), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-29091), [Write-up (GitHub)](https://github.com/tomasilluminati/security-research/blob/main/CVE-2026-29091/README.md)<br><br>
 
 </details>
 
